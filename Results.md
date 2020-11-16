@@ -9,5 +9,5 @@
 
 
 
-#Observations
-![Safe use](/assets/Q1.jpg)
+# Observations
+![Safe use](assets/Q1.jpg)
