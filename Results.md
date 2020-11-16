@@ -32,3 +32,10 @@
 
 ### Satisfaction Scores
 ![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
+
+# Threats to Validity
+- The experiments were performed on only 10 subjects, which is very small sample space and hence we might not draw reliable conclusions.
+- Since the subjects were from CSC510 class, they could be from same team and they might have tested the application using their common repositories resulting in duplicate observations.
+- The subjects were all graduate student with mostly similar background/experience, hence results could be biased. Instead, if the sample space had (say) 3 college grads, 3 professors and 4 industry level specialists, our results would have been different and much more plausible given the diversity of the subjects.
+-  The experiment was conducted asynchronously, hence subject might have filled the form without actually performing the experiment.
+- It is possible that the subjects might have tested only repositories of similar quality and formed an opinion on the application resulting in misleading conclusions.
