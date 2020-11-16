@@ -14,8 +14,21 @@
 * Google Docs
 
 
-
-
-
 # Observations
+### Safety Use
 ![Safe use](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Q1.JPG)
+
+### Ease of use
+![Application_Ease](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Application_ease.JPG)
+
+### Readablility
+![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
+
+### Badge Likeliness
+![Badge Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/badge_likeliness.JPG)
+
+### Recommendation Evalution
+![Recommendation Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/recommend_constable.JPG)
+
+### Satisfaction Scores
+![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
