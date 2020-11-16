@@ -10,4 +10,4 @@
 
 
 # Observations
-![Safe use](./assets/Q1.jpg)
+![Safe use](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Q1.JPG)
