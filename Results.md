@@ -10,4 +10,4 @@
 
 
 # Observations
-![Safe use](assets/Q1.jpg)
+![Safe use](./assets/Q1.jpg)
