@@ -3,6 +3,7 @@
 * Google Forms were used for getting feedback from the users.
 * Since this application required permission for GitHub access, the users were asked about the how comfortable they were to give this access.
 * The users were asked to fill out metrics for ease of use, readability, satisfaction and badge. 
+* They were also asked to list the challenges they faced along with the things they liked and disliked about the application. 
 * A google doc was created with instructions of how to run the application and with the feedback form.
 
 # Materials
