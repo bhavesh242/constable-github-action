@@ -29,10 +29,22 @@ From the pie chart we can see that 50% of the subjects did not find the applicat
 ### Likeliness of Adding Constable Badge to User's Repository
 ![Badge Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/badge_likeliness.JPG)
 
-From the stats above, it can be seen that there is a divided opinion on adding the constable badge to the repository. This is most probably because half of the users that want to add constable bagdge like the idea of constable and it's scoring whereas the other half of the users do not necessarily agree with the scoring formula's followed by the application. Some users may also not find the contable badge relevant to be added to their respective readme files.   
+From the stats above, it can be seen that there is a divided opinion on adding the constable badge to the repository. This is most probably because half of the users that want to add constable badge like the idea of constable and it's scoring whereas the other half of the users do not necessarily agree with the scoring formula's followed by the application. Some users may also not find the contable badge relevant to be added to their respective readme files.   
 
 ### Likeliness of Recommending Constable to User's Friends
 ![Recommendation Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/recommend_constable.JPG)
+
+60% subjects were likely to recommend Constable to their fellow programmer colleagues whereas 30% were neutral about this. This stat can be considered as a positive for Constable as general feedback from subjects suggests that with a few tweaks, the application has a lot of practical uses.
+
+### Positive Feedbacks
+* Most of the users liked the minimalistic, unambiguous User Interface of Constable. 
+* Some users also mentioned that the setup-free online environment made constable a really usable application.
+* The idea of having a badge was also popular amongst the positive feedbacks.
+
+### Negative Feedbacks
+* Almost every user complained about the JSON format of the results, which could have been easily converted to plain text. 
+* Some subjects mentioned that they would have liked to know the criteria for scoring so that they could ensure their repos performed better.
+* There was also some feedback on the slow nature of the website
 
 ### Satisfaction Scores
 ![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
@@ -43,3 +55,4 @@ From the stats above, it can be seen that there is a divided opinion on adding t
 - The subjects were all graduate student with mostly similar background/experience, hence results could be biased. Instead, if the sample space had (say) 3 college grads, 3 professors and 4 industry level specialists, our results would have been different and much more plausible given the diversity of the subjects.
 -  The experiment was conducted asynchronously, hence subject might have filled the form without actually performing the experiment.
 - It is possible that the subjects might have tested only repositories of similar quality and formed an opinion on the application resulting in misleading conclusions.
+- Some subjects' opinions about the application were also affected by the slow nature of Heroku, which is essentially a free hosting service. Had Constable been hosted on a better hosting service - such as AWS or Cloud Flare, their opinions would have been more on the positive side.
