@@ -20,16 +20,16 @@
 
 From the pie chart we can see that 50% of the subjects did not find the application safe to use. One possible reason for this could be that the application requires requires permission for GitHub access and people are not very comfortable giving access of their GitHub account to a third party application. The subjects might have missed the fact that OAuth is used for authentication which ensures security. The other half of the subjects found the application fairly safe.
 
-### Ease of use
+### Ease of Use
 ![Application_Ease](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Application_ease.JPG)
 
-### Readablility
+### Readabilility
 ![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
-
+Readability here indicates the ease of reading the result given by the Constable. As, we can see from the above graph, we can see different users found the readability of the result to be different. This may depend on the underlying knowledge of the user on reading and understanding JSON objects. 
 ### Badge Likeliness
 ![Badge Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/badge_likeliness.JPG)
 
-### Recommendation Evalution
+### Recommendation Evaluation
 ![Recommendation Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/recommend_constable.JPG)
 
 ### Satisfaction Scores
