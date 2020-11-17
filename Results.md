@@ -40,6 +40,10 @@ From the stats above, it can be seen that there is a divided opinion on adding t
 ### Satisfaction Scores
 ![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
 
+ - From the results obtained, it can be inferred that only a few testers (2 out of 10) were completely satisfied by the scores provided by the application.
+ - The main reason would be that Constable evaluates a repository based solely on the files and issues present. 
+ - However, there could be many more parameters to be considered such as code frequency, no. of contributors, no. of pull requests etc., and hence the scores provided by the application don't seem to be completely plausible.
+
 # Threats to Validity
 - The experiments were performed on only 10 subjects, which is very small sample space and hence we might not draw reliable conclusions.
 - Since the subjects were from CSC510 class, they could be from same team and they might have tested the application using their common repositories resulting in duplicate observations.
