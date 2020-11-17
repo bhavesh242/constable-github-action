@@ -23,6 +23,9 @@ From the pie chart we can see that 50% of the subjects did not find the applicat
 ### Ease of use
 ![Application_Ease](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Application_ease.JPG)
 
+From the above chart, we observe that the application seems to be pretty easy to use as all the subjects found it moderate to very easy to use. In addition, 60% of the subjets found it very easy to use. This is expected because the application is just a click away and and subjects had enough knowledge to use GitHub and new applications, hence the subjects might haev found it easy to use.
+
+
 ### Readablility
 ![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
 
