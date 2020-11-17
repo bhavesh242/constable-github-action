@@ -29,6 +29,13 @@ From the above chart, we observe that the application seems to be pretty easy to
 ### Readablility
 ![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
 
+Readability here indicates the ease of reading the result given by the Constable. As, we can see from the above graph, we can see different users found the readability of the result to be different. This may depend on the underlying knowledge of the user on reading and understanding JSON objects.
+
+### Satisfaction Scores
+![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
+
+From the results obtained, it can be inferred that only a few testers (2 out of 10) were completely satisfied by the scores provided by the application. The main reason would be that Constable evaluates a repository based solely on the files and issues present. However, there are many more parameters to be considered such as code frequency, no. of contributors, no. of pull requests etc., and hence the scores provided by the application don't seem to be completely plausible.
+
 ### Likeliness of Adding Constable Badge to User's Repository
 ![Badge Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/badge_likeliness.JPG)
 
@@ -48,11 +55,6 @@ From the stats above, it can be seen that there is a divided opinion on adding t
 * Almost every user complained about the JSON format of the results, which could have been easily converted to plain text. 
 * Some subjects mentioned that they would have liked to know the criteria for scoring so that they could ensure their repos performed better.
 * There was also some feedback on the slow nature of the website
-
-### Satisfaction Scores
-![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
-
-From the results obtained, it can be inferred that only a few testers (2 out of 10) were completely satisfied by the scores provided by the application. The main reason would be that Constable evaluates a repository based solely on the files and issues present. However, there are many more parameters to be considered such as code frequency, no. of contributors, no. of pull requests etc., and hence the scores provided by the application don't seem to be completely plausible.
 
 # Threats to Validity
 - The experiments were performed on only 10 subjects, which is very small sample space and hence we might not draw reliable conclusions.
