@@ -25,6 +25,7 @@ From the pie chart we can see that 50% of the subjects did not find the applicat
 
 ### Readabilility
 ![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
+
 Readability here indicates the ease of reading the result given by the Constable. As, we can see from the above graph, we can see different users found the readability of the result to be different. This may depend on the underlying knowledge of the user on reading and understanding JSON objects. 
 ### Badge Likeliness
 ![Badge Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/badge_likeliness.JPG)
