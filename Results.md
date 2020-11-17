@@ -15,22 +15,23 @@
 
 
 # Observations
-### Security 
+### Safety Use
 ![Safe use](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Q1.JPG)
 
 From the pie chart we can see that 50% of the subjects did not find the application safe to use. One possible reason for this could be that the application requires requires permission for GitHub access and people are not very comfortable giving access of their GitHub account to a third party application. The subjects might have missed the fact that OAuth is used for authentication which ensures security. The other half of the subjects found the application fairly safe.
 
-### Ease of Use
+### Ease of use
 ![Application_Ease](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Application_ease.JPG)
 
-### Readabilility
+### Readablility
 ![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
 
-Readability here indicates the ease of reading the result given by the Constable. As, we can see from the above graph, we can see different users found the readability of the result to be different. This may depend on the underlying knowledge of the user on reading and understanding JSON objects. 
-### Badge Likeliness
+### Likeliness of Adding Constable Badge to User's Repository
 ![Badge Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/badge_likeliness.JPG)
 
-### Recommendation Evaluation
+From the stats above, it can be seen that there is a divided opinion on adding the constable badge to the repository. This is most probably because half of the users that want to add constable bagdge like the idea of constable and it's scoring whereas the other half of the users do not necessarily agree with the scoring formula's followed by the application. Some users may also not find the contable badge relevant to be added to their respective readme files.   
+
+### Likeliness of Recommending Constable to User's Friends
 ![Recommendation Likeliness](https://github.com/bhavesh242/constable-github-action/blob/main/assets/recommend_constable.JPG)
 
 ### Satisfaction Scores
