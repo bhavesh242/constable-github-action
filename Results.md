@@ -15,7 +15,7 @@
 
 
 # Observations
-### Safety Use
+### Security 
 ![Safe use](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Q1.JPG)
 
 From the pie chart we can see that 50% of the subjects did not find the application safe to use. One possible reason for this could be that the application requires requires permission for GitHub access and people are not very comfortable giving access of their GitHub account to a third party application. The subjects might have missed the fact that OAuth is used for authentication which ensures security. The other half of the subjects found the application fairly safe.
