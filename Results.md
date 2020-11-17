@@ -55,6 +55,12 @@ From the stats above, it can be seen that there is a divided opinion on adding t
 * Almost every user complained about the JSON format of the results, which could have been easily converted to plain text. 
 * Some subjects mentioned that they would have liked to know the criteria for scoring so that they could ensure their repos performed better.
 * There was also some feedback on the slow nature of the website
+# Conclusions
+* The general feedback about Constable has been more positive than negative, especially among users who are more active on GitHub.
+* Constable can be very useful to open-source contributors, however, it needs a few improvements.  
+* There are major changes needed in the scoring criteria of the application, which currently uses only file presence and closed issues as a metric. Some of the things that can also be considered include Style Checkers, Test Cases, Code Coverages, commit distributions etc. 
+* A more intuitive UI can go a long way, such as inclusions of autosuggests and dashboards.
+* Adding guarantees about usage safety to a code repository can also be really useful to the application.
 
 # Threats to Validity
 - The experiments were performed on only 10 subjects, which is very small sample space and hence we might not draw reliable conclusions.
