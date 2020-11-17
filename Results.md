@@ -23,6 +23,9 @@ From the pie chart we can see that 50% of the subjects did not find the applicat
 ### Ease of use
 ![Application_Ease](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Application_ease.JPG)
 
+From the above chart, we observe that the application seems to be pretty easy to use as all the subjects found it moderate to very easy to use. In addition, 60% of the subjects found it very easy to use. This is expected because the application is just a click away and subjects had enough knowledge to use GitHub and new applications, hence the subjects might have found it easy to use.
+
+
 ### Readablility
 ![Readability Results](https://github.com/bhavesh242/constable-github-action/blob/main/assets/Results_Readable.JPG)
 
@@ -48,6 +51,8 @@ From the stats above, it can be seen that there is a divided opinion on adding t
 
 ### Satisfaction Scores
 ![Satisfaction Scores](https://github.com/bhavesh242/constable-github-action/blob/main/assets/scores_satisfied.JPG)
+
+From the results obtained, it can be inferred that only a few testers (2 out of 10) were completely satisfied by the scores provided by the application. The main reason would be that Constable evaluates a repository based solely on the files and issues present. However, there are many more parameters to be considered such as code frequency, no. of contributors, no. of pull requests etc., and hence the scores provided by the application don't seem to be completely plausible.
 
 # Threats to Validity
 - The experiments were performed on only 10 subjects, which is very small sample space and hence we might not draw reliable conclusions.
